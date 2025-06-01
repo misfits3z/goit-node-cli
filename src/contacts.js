@@ -3,7 +3,6 @@ import path from 'path';
 import { v4 as uuidv4 } from "uuid";
 
 
-//  Розкоментуй і запиши значення
  const contactsPath = path.resolve("src", "db", "contacts.json");
 
 
